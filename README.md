@@ -1,2 +1,4 @@
 # tap2eat
-CV &amp; TODO list
+CV TODO list
+
+Base creada con [create-react-app](https://github.com/facebookincubator/create-react-app)
